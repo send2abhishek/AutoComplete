@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "672996738506",
+    "firebase_url": "https://autocomplete-e9efc.firebaseio.com",
+    "project_id": "autocomplete-e9efc",
+    "storage_bucket": "autocomplete-e9efc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672996738506:android:308335729c55efcd",
+        "android_client_info": {
+          "package_name": "com.example.abhishekaryan.autocomplete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672996738506-jfi8b1c7cqoa3bt3foaen49jtnsfmrsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZQlA3u7vN6PykVR6o0PF6VvQ21JBceXc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AutoComplete</string>
+
+    <string name="pref_key">my_pref_key</string>
+
+    <string name="pref_key_sum">pref 3</string>
+
+    <string name="pref_name_1">pref 1</string>
+    <string name="pref_name_2">pref 2</string>
+    <string name="pref_name_3">pref 3</string>
+    <string name="pref_name_4">pref 4</string>
+
+
+    <string name="pref_name_val_1">prefVal1</string>
+    <string name="pref_name_val_2">prefVal2</string>
+    <string name="pref_name_val_3">prefVal3</string>
+    <string name="pref_name_val_4">prefVal4</string>
+</resources>

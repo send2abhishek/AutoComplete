@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_entries">
+
+        <item>@string/pref_name_1</item>
+        <item>@string/pref_name_2</item>
+        <item>@string/pref_name_3</item>
+
+    </string-array>
+
+    <string-array name="pref_val">
+        <item>@string/pref_name_val_1</item>
+        <item>@string/pref_name_val_2</item>
+        <item>@string/pref_name_val_3</item>
+
+
+    </string-array>
+
+</resources>
